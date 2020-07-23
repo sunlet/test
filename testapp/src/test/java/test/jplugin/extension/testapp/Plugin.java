@@ -11,7 +11,7 @@ public class Plugin  extends AbstractPlugin{
 	public Plugin() {
 		this.searchAndBindExtensions();
 		
-		aaa
+		
 	}
 
 	@Override
