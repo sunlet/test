@@ -15,6 +15,7 @@ public class Plugin  extends AbstractPlugin{
 	@Override
 	public void init() {
 		
+		System.out.println("initing.....");
 	}
 
 	@Override
