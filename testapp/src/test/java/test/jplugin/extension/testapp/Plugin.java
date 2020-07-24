@@ -11,6 +11,8 @@ public class Plugin  extends AbstractPlugin{
 	public Plugin() {
 		this.searchAndBindExtensions();
 		
+		//aa
+		//bb
 		
 		
 		//new version
