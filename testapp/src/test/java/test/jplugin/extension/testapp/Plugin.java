@@ -27,14 +27,12 @@ public class Plugin  extends AbstractPlugin{
 		
 		System.out.println("gogogogogo");
 		
-<<<<<<< HEAD
-		
-		
+
 		
 		System.out.println("hahahahaha bbb");
-=======
+
 		System.out.println("hahahahaha develop");
->>>>>>> develop
+
 	
 	}
 
