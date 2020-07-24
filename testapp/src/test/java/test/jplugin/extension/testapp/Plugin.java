@@ -26,6 +26,8 @@ public class Plugin  extends AbstractPlugin{
 		System.out.println("aaa");
 		
 		System.out.println("gogogogogo");
+		
+		System.out.println("hahahahaha develop");
 	
 	}
 
