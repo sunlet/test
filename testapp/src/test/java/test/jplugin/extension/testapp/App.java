@@ -14,7 +14,7 @@ public class App
         System.out.println("cbqcbq==========");
 
         
-        
+
         System.out.println("cbqcbq==========2222");
     }
 }
