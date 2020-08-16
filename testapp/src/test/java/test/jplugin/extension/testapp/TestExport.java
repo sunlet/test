@@ -1,5 +1,6 @@
 package test.jplugin.extension.testapp;
 
+//comment
 
 import net.jplugin.ext.webasic.api.BindServiceExport;
 
